@@ -1,0 +1,3 @@
+- 👋 Oi, eu sou @AllanSzcz
+- 👀 Eu estou interessado em me tornar um dev fullstack
+- 🌱 Estou aprendendo HTML5 e CSS3
